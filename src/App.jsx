@@ -28,7 +28,7 @@ function App() {
    <div
             className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
             style={{
-                backgroundImage: `url('https://img.freepik.com/free-vector/global-digital-money-transfer-techno-concept-background-design_1017-52486.jpg?ga=GA1.1.774243761.1747851733&semt=ais_hybrid&w=740')`,
+                backgroundImage: "url(https://img.freepik.com/free-vector/global-digital-money-transfer-techno-concept-background-design_1017-52486.jpg?ga=GA1.1.774243761.1747851733&semt=ais_hybrid&w=740)"
                 // height: "1vh"    
             }}
         >
